@@ -57,7 +57,7 @@ const About = () => {
               </p>
               <div className='w-24 h-px bg-gradient-to-r from-blue-500/30 to-transparent mx-auto my-2'></div>
               <p className='leading-relaxed'>
-                I'm passionate about continuous learning and staying at the
+                I&apos;m passionate about continuous learning and staying at the
                 forefront of technology trends. This dedication allows me to
                 deliver innovative solutions that meet current needs while
                 anticipating future developments in the rapidly evolving tech

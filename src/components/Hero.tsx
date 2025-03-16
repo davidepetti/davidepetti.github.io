@@ -14,7 +14,7 @@ const Hero = () => {
         >
           <h1 className='text-4xl sm:text-5xl md:text-6xl font-bold mb-6'>
             <span className='block text-gray-900 dark:text-white'>
-              Hello, I'm Davide.
+              Hello, I&apos;m Davide.
             </span>
             <span className='block text-blue-600 mt-2'>
               Software Developer & Web3 Security Researcher
